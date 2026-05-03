@@ -1,6 +1,6 @@
 # European Football Analysis ⚽
 
-Analysis of 26,000 football matches from 11 European leagues in seasons 2008/09 - 2015/16 using SQL and Power BI.
+Analysis of 26 000 football matches from 11 European leagues in seasons 2008/09 - 2015/16 using SQL and Power BI.
 
 ## Dashboard
 ![Dashboard](screenshots/dashboard.png)
